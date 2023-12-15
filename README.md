@@ -12,7 +12,7 @@ Run the following commands: `./grldlew run`
 
 ## Program Architecture
 
-Here is a diagram illustrating the program architecture.
+Here is a diagram illustrating the program architecture. Diagram may not be clear therefore you may need to click on it and download as a raw file 😬.
 
 <img src="./diagrams/architecture.png" alt="architecture diagram" width="1000"/>
 
