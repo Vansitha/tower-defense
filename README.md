@@ -1,6 +1,6 @@
 # Tower Defense Game
 
-![gameplay](./diagrams/gameplay.PNG)
+<img src="./diagrams/gameplay.PNG" alt="Gameplay" width="500"/>
 
 ## Instructions
 
@@ -14,7 +14,7 @@ Run the following commands: `./grldlew run`
 
 Here is a diagram illustrating the program architecture.
 
-![architecture diagram](./diagrams/architecture.png)
+<img src="./diagrams/architecture.png" alt="architecture diagram" width="1000"/>
 
 <small>
 Note: This program was part created as part of a university assessment. If you use any section of the code for a similar project, it is your responsibility to cite the source for those code portions to avoid plagiarism so that you don't get into trouble :)
